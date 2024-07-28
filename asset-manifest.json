@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Reanmore/static/css/main.58462fbc.css",
+    "main.js": "/Reanmore/static/js/main.0a49ec90.js",
+    "static/media/slkemnekeng.mp4": "/Reanmore/static/media/slkemnekeng.de110bd83ad26fdaa448.mp4",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Reanmore/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/Reanmore/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/profile-img.png": "/Reanmore/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "index.html": "/Reanmore/index.html",
+    "main.58462fbc.css.map": "/Reanmore/static/css/main.58462fbc.css.map",
+    "main.0a49ec90.js.map": "/Reanmore/static/js/main.0a49ec90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.0a49ec90.js"
+  ]
+}
